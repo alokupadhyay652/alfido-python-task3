@@ -1,4 +1,5 @@
 # alfido-python-task3
+
 Alfido Tech Python Developer Internship - Task 3: Data Analysis with Pandas
 
 ## About
@@ -31,3 +32,6 @@ read_csv, head, shape, dtypes, isnull, to_numeric, fillna, filtering, groupby, a
 
 ## Repository
 https://github.com/alokupadhyay652/alfido-python-task3
+
+## Document
+https://drive.google.com/file/d/1hI05Pr4updjp1ZCsj66-CGEiLLNG649u/view?usp=drivesdk
